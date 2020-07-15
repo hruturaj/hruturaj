@@ -1,8 +1,6 @@
-<link href="https://fonts.googleapis.com/css2?family=Fondamento&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Montserrat" rel="stylesheet">
-
 ## Hi 👋, I'm Hruturaj!
- <p style="font-family:"Fondamento";>This is random text</p>
+
+***UNDER CONSTRUCTION !!!!***
 
 
 <!--
