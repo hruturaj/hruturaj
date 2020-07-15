@@ -1,4 +1,9 @@
-### Hi there 👋
+<link href="https://fonts.googleapis.com/css2?family=Fondamento&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat" rel="stylesheet">
+
+##Hi 👋, I'm Hruturaj!
+<span style="font-family:"Fondamento";>This is random text</span>
+
 
 <!--
 **hruturaj/hruturaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
