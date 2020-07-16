@@ -20,14 +20,14 @@ I'm Hruturaj, a passionate Full Stack Web Developer from **INDIA** :india:. Besi
 Here are some ideas to get you started:
 -->
 ## Talking about Personal Stuffs:
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Django Blogging Website.
 - 🌱 I’m currently learning Vue.js
-<!-- - 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything, I will be pleased to answer any questions.
 - 📫 How to reach me: __hrutunikam007@gmail.com__
 - ⚡ Available for **Freelance projects/internship** opportunities.
 
+<!-- - 👯 I’m looking to collaborate on ... 
+- 🤔 I’m looking for help with ... -->
 
 ## Languages and Tools:
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -43,6 +43,9 @@ Here are some ideas to get you started:
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
+<div align="center">
+Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
+</div>
 <!--
 ![Hruturaj's github stats](https://github-readme-stats.vercel.app/api?username=hruturaj&show_icons=true&hide_border=true)
 -->
