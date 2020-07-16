@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 <div align="center">
-Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
+<p><b>Please feel free to clone projects, raise issues and submit PRs if you think something could be better.</b></p>
 </div>
 <!--
 ![Hruturaj's github stats](https://github-readme-stats.vercel.app/api?username=hruturaj&show_icons=true&hide_border=true)
