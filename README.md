@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
+<br />
+<br />
 <div align="center">
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
 </div>
