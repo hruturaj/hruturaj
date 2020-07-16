@@ -19,6 +19,8 @@ I'm Hruturaj, a passionate Full Stack Web Developer from **INDIA** :india:. Besi
 
 Here are some ideas to get you started:
 -->
+<br />
+<br />
 ## Talking about Personal Stuffs:
 - 🔭 I’m currently working on Django Blogging Website.
 - 🌱 I’m currently learning Vue.js
